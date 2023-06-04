@@ -1,7 +1,7 @@
 # Cronus
 
-This Project was made for Apogee 2019 as a design system. It proposes a quadraped-rover hybrid system. It has 4 servo controlled legs to adjust the height of the chassis along with 4 omni wheels at the bottom. We have used a Holonomic drive system with Raspberry Pi as its microcontroller. We have also used a camera on the raspberry Pi to carry out motion detection, face and eye recognition using OpenCV.
-The purpose of this project was to showcase a new design for a security bot with height adjusting omni directionality using a holonomic drive.
+This Project was made for Apogee 2019 as a Design Challenge. It proposes a quadruped-rover hybrid system. It has 4 servo controlled legs to adjust the height of the chassis along with 4 omni wheels at the bottom. We have used a Holonomic drive system with Raspberry Pi as its microprocessor. We have also used a camera on the raspberry Pi to carry out motion detection, face and eye recognition using OpenCV.
+The purpose of this project was to showcase a new design for a security bot with height adjusting omni directional movement capablity using a holonomic drive.
 
 ## Project
 
